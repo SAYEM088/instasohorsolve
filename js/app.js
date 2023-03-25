@@ -61,13 +61,13 @@ const createPost = (post) => {
               <div class="post__header">
                 <div class="post__profile">
                   <a
-                    href="https://github.com/ProgrammingHero1"
+                    href="https://github.com/SAYEM088"
                     target="_blank"
                     class="post__avatar"
                   >
                     <img src="${userImage}" alt="User Picture" />
                   </a>
-                  <a href="#" class="post__user">phero</a>
+                  <a href="#" class="post__user">sam</a>
                 </div>
 
                 <button class="post__more-options">
